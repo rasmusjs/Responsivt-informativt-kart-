@@ -1,4 +1,7 @@
 # **Prøv ut kartet på** [https://kart.skramzy.no/](https://kart.skramzy.no/)
+Av: Jørgen Skontorp, Rasmus Skramstad og Ole Kristian Rudjord, under Institutt for informasjonsteknologi ved OsloMet – storbyuniversitetet
+
+
 # Bakgrunn for oppgaven
 
 Oppdragsgiven Norconsult Digital, med omfattende domenekunnskap og erfaring innen veiforvaltning og kritisk infrastruktur, ønsket å utforske potensialet for å samle flere fagsystemer til en enhetlig løsning. Med dette kunne man lettere se sammenhengen mellom ulike systemer. Vår oppgave var å lage et konseptbevis (proof of concept), hvor vi henter data fra flere fiktive fagsystemer og illustrere de i kart, for å vise nytteverdien av en slik løsning
